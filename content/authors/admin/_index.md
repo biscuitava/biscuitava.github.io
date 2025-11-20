@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Hongbin Yan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Hongbin
+last_name: Yan
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,108 +23,98 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Assistant 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Nanchang University
+    url: https://www.ncu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:ncuspyyanhongbin@163.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: xxx
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/biscuitava
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: #https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: #https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: #https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Environmental Chemistry
+  - Wastewater treatment
+  - Microalgal technology
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD candidate Chemical Engineering
+    institution: The University of Queendsland
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: ''
+    date_end: ''
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Food Science and Technology
+    institution: Nanchang University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2022-09-01
+    date_end: 2025-06-01
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.39/4
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      xxxxxx
+  - area: BS Food Science and Technology
+    institution: Nanchang University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2018-09-01
+    date_end: 2022-05-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.25/4.0
 
-      Minored in Mathematics. President of AI Club.
+      xxxxxx
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Assistant
+    company_name: Nanchang University
+    company_url: 'https://www.ncu.edu.cn/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-09-10
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+      Research on my previous work	
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
-        percent: 95
+        percent:
         icon: code-bracket
-      - name: Machine Learning
+      - name: R language
         description: ''
-        percent: 100
+        percent: 
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Linux
         description: ''
-        percent: 85
+        percent: 
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking
         description: ''
-        percent: 80
+        percent: ''
         icon: person-simple-walk
       - name: Building Custom PCs
         description: ''
@@ -136,10 +126,10 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Mandarin
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +159,12 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Hongbin Yan is a research assistant at Nanchang University and is currently awaiting his visa to pursue a PhD at The University of Queensland. His research interests include microalgae–bacteria symbiosis, resource valorization of livestock and poultry anaerobic digestate, and the environmental transformation of antibiotics.
+
+During his master’s studies at Nanchang University, he mainly investigated algae–bacteria interactions, antibiotic removal mechanisms in real anaerobic digestate, and the protein-enrichment potential of Chlorella sp. He obtained his M.S. degree in June 2025. He will subsequently pursue a PhD at The University of Queensland (supported by the CSC-UQ joint scholarship), where he may continue research on antibiotic resistance and related environmental processes.
+His current work focuses on:
+
+Microalgae (Chlorella sp.)–bacteria (e.g., Bacillus) consortia for antibiotic degradation, pollution control, and high-value biomass enrichment;
+Bacterial transformation of algal-derived dissolved organic matter (DOM) and its role in enhancing antibiotic photodegradation;
+Multi-omics approaches—including RNA-seq, FT-ICR-MS, 3D-EEM, and LC-MS/MS—for elucidating environmental bioprocesses.
+
